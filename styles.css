@@ -1,0 +1,61 @@
+/* add your CSS here */
+html 
+{
+
+    background: #fff;
+
+}
+
+body 
+{
+    margin: auto;
+    width: 50%;
+
+    }
+
+.animal-desc 
+{
+
+	font-style: italic;
+
+}
+
+.bold-lab 
+{
+
+font-weight: bold;
+
+}
+
+.b-style
+{
+
+    border-style:ridge; 
+    padding: 10px;
+	margin: 10px;
+	width:320px ;
+
+}
+.b1-style
+{
+	
+	border-style:ridge; 
+    padding: 10px;
+	margin: 10px;
+
+}
+
+.ul-style
+{
+
+list-style-type: none;
+padding: 5px;
+
+}
+
+.ph-im
+{
+
+	width: 300px;
+}
+
